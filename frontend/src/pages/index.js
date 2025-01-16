@@ -1,0 +1,11 @@
+export { default as Login } from './Login';
+export { default as Register } from './Register';
+export { default as Dashboard } from './Dashboard';
+export { default as LearningPaths } from './LearningPaths';
+export { default as LearningPathDetails } from './LearningPathDetails';
+export { default as Assessment } from './Assessment';
+export { default as Profile } from './Profile';
+export { default as Certificates } from './Certificates';
+export { default as TopicView } from './TopicView';
+export { default as SearchResults } from './SearchResults';
+export { default as UserProgress } from './UserProgress';
